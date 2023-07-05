@@ -1,0 +1,20 @@
+{
+  "name": "node_init",
+  "version": "1.0.0",
+  "description": "aplicaçãode estudo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "dio",
+    "getting started"
+  ],
+  "author": "felipe-aguiar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
